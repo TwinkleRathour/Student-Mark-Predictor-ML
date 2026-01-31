@@ -1,2 +1,14 @@
-# Student-Mark-Predictor-ML
-Predict student marks using Linear Regression with Scikit-Learn. This ML project analyzes the correlation between study hours and academic scores, featuring data preprocessing with Pandas, model training, and performance visualization using Matplotlib. Includes MSE evaluation and a clear trend-line analysis for predictive accuracy.
+# Student Performance Predictor (Linear Regression)
+
+This repository contains a simple Machine Learning model built using **Scikit-Learn** to predict student marks based on the number of hours studied.
+
+## 📊 Results
+- **Model:** Linear Regression
+- **MSE:** 5.27
+- **Prediction Formula:** Marks = 6.72 * (Hours) + 29.27
+
+## 🛠️ Tech Stack
+- Python (Pandas, Matplotlib)
+- Scikit-Learn (Linear Regression)
+
+![Model Visualization](regression_results.png)
